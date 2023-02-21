@@ -8,25 +8,24 @@
             min-height:4.375rem;
             background-color:black;
             color:white;
-            padding:1.25rem;
             border-bottom:pink 3px solid; 
             margin:auto;
-            overflow:hidden;  
+            Text-align:center;
+            
                   
                   }
         header h1{
-        font:baby pink;
-        margin :0.625rempx;
+        
+        
         padding:1.875rem;
         
        Text-align:center;
-       color:white
+       color:white;
        font-weight:bold;           
         }
         
       ul,li {
         display:inline;
-        padding:0.625rem;  
         Text-align:center;
    } 
         
