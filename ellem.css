@@ -30,9 +30,11 @@
    } 
         
         header a {
-            text-decoration:none;
-            color: white;
-Text-align:center;
+           text-decoration:none;
+           color: white;
+          Text-align:center;
+          Padding:1rem;
+
         }
         
         .try{
@@ -40,7 +42,8 @@ Text-align:center;
             color: white;
             background-color:black;
             Text-align:center;
-            overflow:hidden;           }
+           
+                    }
             
             .hr{
             border-bottom:pink 50px solid;
@@ -55,8 +58,7 @@ Text-align:center;
        
        img{ 
 max-width:100%;
-height:250px ;
-       length:100px}
+}
        
         footer{
             background-color:brown;
