@@ -1,0 +1,66 @@
+
+        body{
+            background-color:black       }
+        
+        header
+        {
+            padding-top:1.875rem;
+            min-height:4.375rem;
+            background-color:black;
+            color:white;
+            padding:1.25rem;
+            border-bottom:pink 3px solid; 
+            margin:auto;
+            overflow:hidden;  
+                  
+                  }
+        header h1{
+        font:baby pink;
+        margin :0.625rempx;
+        padding:1.875rem;
+        
+       Text-align:center;
+       color:white
+       font-weight:bold;           
+        }
+        
+      ul,li {
+        display:inline;
+        padding:0.625rem;  
+        Text-align:center;
+   } 
+        
+        header a {
+            text-decoration:none;
+            color: white;
+Text-align:center;
+        }
+        
+        .try{
+            padding:3.125rem;
+            color: white;
+            background-color:black;
+            Text-align:center;
+            overflow:hidden;           }
+            
+            .hr{
+            border-bottom:pink 50px solid;
+                
+                
+            }
+            
+           span {
+        color:pink;
+        font-family: 'Brush Script MT',cursive;}
+       
+       
+       img{ 
+max-width:100%;
+height:250px ;
+       length:100px}
+       
+        footer{
+            background-color:brown;
+            Text-align:center;
+            padding:3.125rem;       }
+  
