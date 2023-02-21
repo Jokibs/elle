@@ -10,7 +10,7 @@ images[3]='new.jpg';
 
 //change image
 function changeimg(){
-    document.slide.src=images[i];
+    document.revenant.src=images[i];
     if(i< images.length-1){
     i++;
         
