@@ -1,5 +1,8 @@
 var i1 = 0;
-var images1 = ['pic1.jpg', 'pic2.jpg', 'pic3.jpg', 'pic4.jpg'];
+var images1 = ['pic5.webp', 'pic17.webp', 'pic14.webp', 'pic9.jpg','pic10.jpg','pic16.webp','pic3.jpg','new2.jpg';]
+
+
+];
 var time1 = 2000;
 
 function changeimg1() {
@@ -13,7 +16,7 @@ function changeimg1() {
 }
 
 var i2 = 0;
-var images2 = ['pic7.jpg', 'pic3.jpg', 'pic2.jpg', 'pic1.jpg'];
+var images2 = ['pic1.jpg', 'pic11.jpg', 'pic14.jpg'];
 var time2 = 2000;
 
 function changeimg2() {
