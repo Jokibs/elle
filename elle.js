@@ -1,7 +1,8 @@
 var i=0;
-var images=[];
-var time=1000;
-//images list
+var var i1 = 0;
+var images1 = [];
+var time1 = 2000;
+//images 
 images[0]='pic15.webp';
 images[1]='pic17.webp';
 images[2]='pic14.webp';
@@ -11,22 +12,6 @@ images[5]='pic16.webp';
 images[6]='pic3.jpg';
 images[7]='new2.jpg';
 
-
-//change image
-function changeimg(){
-    document.slide.src=images[i];
-    if(i< images.length-1){
-    i++;
-        
-    }else{i=0;}
-    
-    setTimeout("changeimg()",time);
-}
-window.onload=changeimg;
-var i=0;
-var var i1 = 0;
-var images1 = ['pic1.jpg', 'pic2.jpg', 'pic3.jpg', 'pic4.jpg'];
-var time1 = 2000;
 
 function changeimg1() {
     document.slide.src = images1[i1];
