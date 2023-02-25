@@ -22,7 +22,19 @@ header{min-height:4.375rem;
             color:white;
             background-color:black;
             Text-align:center;}
-            
+                
+                  
+         .try{padding:3.125rem;
+            color: white;
+            background-color:black;
+            Text-align:center; 
+            border:2px white solid;}
+           .title{color:pink;
+             Max-width:100%;
+        font-family: 'Brush Script MT',cursive;}
+        span{font-family:'Times New Roman',serif    }
+        .spa{font-family:serif;}
+        
             .hr{border-bottom:pink 50px solid;}
             
            span{color:pink;
