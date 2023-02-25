@@ -31,5 +31,16 @@ window.onload = function() {
     changeimg2();
 };
 
+  // Set the time period in milliseconds
+  const timePeriod = 9000; // 9 seconds
+  
+  // Function to show the button
+  function showButton() {
+    document.getElementById("myButton").style.display = "block";
+  }
+  
+  // Set a timeout to show the button after the time period has elapsed
+  setTimeout(showButton, timePeriod);
+
 
 
