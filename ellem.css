@@ -1,11 +1,9 @@
-
-        body{background-color:black;}
-        header{padding-top:1.875rem;
-            min-height:4.375rem;
+*{margin:0px;Padding:0px;}
+body{background-color:black;}
+header{min-height:4.375rem;
             background-color:black;
             color:white;
-            border-bottom:pink 3px solid; 
-            margin:auto;
+            border-bottom:pink 3px solid;
             Text-align:center;}
         header h1{padding:1.875rem;
                   Text-align:center;
@@ -13,7 +11,6 @@
                   font-weight:bold;}
         ul,li{display:inline;
         Text-align:center;} 
-        
         header a{text-decoration:none;
                 color:white;
                 Text-align:center;
@@ -33,5 +30,5 @@
             
         footer{background-color:brown;
             Text-align:center;
-            padding:3.125rem;       }
+            padding:3.125rem;}
   
