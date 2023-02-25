@@ -1,8 +1,5 @@
 var i1 = 0;
-var images1 = ['pic5.webp', 'pic17.webp', 'pic14.webp', 'pic9.jpg','pic10.jpg','pic16.webp','pic3.jpg','new2.jpg';]
-
-
-];
+var images1 = ['pic5.webp', 'pic17.webp', 'pic14.webp', 'pic9.jpg','pic10.jpg','pic16.webp','pic3.jpg','new2.jpg'];
 var time1 = 2000;
 
 function changeimg1() {
