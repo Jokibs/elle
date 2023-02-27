@@ -2,13 +2,11 @@
 body{background-color:black;}
 header{min-height:4.375rem;
             background-color:black;
-            color:white;
             border-bottom:pink 3px solid;
             Text-align:center;}
         header h1{padding:1.875rem;
                   Text-align:center;
-                  color:white;
-                  font-weight:bold;}
+                  }
         ul,li{display:inline;
         Text-align:center;} 
         header a{text-decoration:none;
@@ -32,7 +30,7 @@ header{min-height:4.375rem;
            .title{color:pink;
              Max-width:100%;
         font-family: 'Brush Script MT',cursive;}
-        span{font-family:'Times New Roman',serif    }
+     
         .spa{font-family:serif;}
         
             .hr{border-bottom:pink 50px solid;}
