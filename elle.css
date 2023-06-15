@@ -133,7 +133,7 @@ margin:0;}
 
 /*  Add margin for small devices  */
 @media only screen and (max-width: 320px) {
-  .showcase img{width:100px;
+  .showcase img{width:150px;
     max-height: 200px;
   }
   .showcase {margin-left :5px ;
@@ -141,3 +141,4 @@ display: grid;
 grid-template-columns: 2fr 2fr ;
 column-gap: 12.5px;}}
 .title {font-size:14px;}
+.title {font-size:14px;text-transform: lowercase; }
