@@ -1,4 +1,4 @@
-height: ;          /* reset */
+       /* reset */
 *{margin:0;Padding:0;}
          /* header */
          body {line-height: 1.5;
@@ -66,7 +66,7 @@ color:white;}
  }
  /* showcase */
  
-.showcase img{width:160px;}
+.showcase img{width:160px;height:200px}
 .showcase {margin-left :10px ;
 display: grid;
 grid-template-columns: 2fr 2fr ;
@@ -134,7 +134,7 @@ margin:0;}
 /*  Add margin for small devices  */
 @media only screen and (max-width: 320px) {
   .showcase img{width:100px;
-    max-height: 100%;
+    max-height: 200px;
   }
   .showcase {margin-left :5px ;
 display: grid;
