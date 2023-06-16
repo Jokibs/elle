@@ -148,9 +148,7 @@ img:hover {
   transition: opacity 0.3s;
   display: flex;
   justify-content: center;
-  align-items: center;
-  pointer-events: none;
-}
+  align-items: center;}
 
 .image-container:hover .overlay {
   opacity: 1.0;
@@ -158,16 +156,20 @@ img:hover {
 
 .hover-btn {
   display: none;
+  
 }
-
+.hover-btn a {text-decoration:none;
+color: white;
+}
 .image-container:hover .overlay .hover-btn {
   display: block;
   position: absolute;
-  bottom: 0px;
-  margin: 0px;
+  bottom: 7px;
   background-color: grey;
   padding: 5px 10px;
-  width: 162px;
+  width: 90px;
+  border :1px solid white ;
+  font-size :10px ;
 }
 
 .image {
@@ -212,13 +214,13 @@ h2 {
   
   .image-container:hover .overlay .hover-btn {
     max-width: 130px;
-  }
-}
-
-.title {
+  }.title {
   font-size: 14px;
   text-transform: lowercase;
 }
+
+}
+
 
 .more-btn {
   display: block;
@@ -235,9 +237,7 @@ h2 {
   height: 200px;
   display: block;
   position: absolute;
-  padding: 5px 10px
-
-;
+  padding: 5px 10px;
   width: 160px;
   margin-left: 100px;
 }
@@ -337,3 +337,4 @@ position: relative;
   margin: 0;}
 .info{text-align:left;}
 .no-style{list-style:none;}
+.bold{font-weight:bold;}
